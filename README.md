@@ -1,2 +1,3 @@
 # Linkdin-clone
-Mini Project.
+ It is a mini project.
+ Technologies used are - HTML ,CSS ,JavaScript.
